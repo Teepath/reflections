@@ -4,3 +4,7 @@ Why might you want to always pull changes manually rather than having Git automa
 
 Git pulling is way more efficient than manual pulling. The only situation that might make me to go manual would be when there is no internet access.
 
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+
+Forks is when Github clone a repo to its server for you to work on. Clone is when you make a copy of a repo on GitHub page through a method of git to your local device. while branch is when you make a copy of your project into another folder on gitHub page.
+
