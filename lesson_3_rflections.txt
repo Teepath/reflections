@@ -1,0 +1,2 @@
+When would you want to use a remote repository rather than keeping all your work local?
+putting my work on repository is more ideal if I am working with a team and for better easy storage and security.
