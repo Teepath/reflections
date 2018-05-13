@@ -1,0 +1,6 @@
+Need to find the files for my first commit.
+
+Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
+
+Git pulling is way more efficient than manual pulling. The only situation that might make me to go manual would be when there is no internet access.
+
